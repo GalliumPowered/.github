@@ -2,4 +2,4 @@
 Minecraft: Java edition Minecraft server software
 
 * [Gallium](https://github.com/GalliumPowered/Gallium/)
-* [GalliumLib](https://github.com/GalliumPowered/GalliumLib)
+
